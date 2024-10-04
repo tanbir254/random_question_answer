@@ -1,0 +1,107 @@
+
+**Distinguish between verification and validation:**
+
+* **Verification:** Ensures that the product meets the specified requirements. It is a static process that involves checking the product against the defined criteria.
+* **Validation:** Ensures that the product meets the user's needs and expectations. It is a dynamic process that involves testing the product in real-world scenarios.
+
+**Bug leakage and bug release:**
+
+* **Bug leakage:** When a defect is found in the product after it has been released to production.
+* **Bug release:** When a defect is found in the product before it is released to production.
+
+**Explain testware:**
+
+* Testware refers to all the artifacts that are used in the testing process, such as test plans, test cases, test scripts, test data, and test reports.
+
+**Explain the bug life cycle:**
+
+* The bug life cycle is the process that a defect goes through from the time it is discovered to the time it is resolved. It typically includes the following stages:
+    * New: The defect is first reported.
+    * Assigned: The defect is assigned to a developer to fix.
+    * Fixed: The developer fixes the defect.
+    * Retest: The defect is retested to ensure that it has been fixed.
+    * Closed: The defect is closed if it has been successfully fixed.
+    * Reopened: The defect is reopened if it is found to be still present after being fixed.
+
+**What is load testing?**
+
+* Load testing is a type of performance testing that is used to evaluate the behavior of a system under a specific load. It is used to determine the maximum number of users or transactions that a system can handle before it starts to degrade in performance.
+
+**What are negative and positive testing:**
+
+* **Negative testing:** Verifies that the system handles invalid or unexpected input correctly.
+* **Positive testing:** Verifies that the system handles valid input correctly.
+
+**What does the test strategy include?**
+
+* The test strategy defines the overall approach to testing a product. It includes the following elements:
+    * Objectives: The goals of the testing effort.
+    * Scope: The parts of the product that will be tested.
+    * Approach: The methods and techniques that will be used to test the product.
+    * Resources: The people, tools, and equipment that will be needed for testing.
+    * Schedule: The timeline for the testing effort.
+
+**What is quality assurance?**
+
+* Quality assurance is a systematic process of ensuring that a product or service meets specified requirements. It involves a wide range of activities, such as planning, designing, developing, testing, and reviewing the product or service.
+
+**What is test case?**
+
+* A test case is a set of conditions, inputs, expected results, and actual results that are used to determine whether a software component or system works correctly.
+
+**What is traceability matrix?**
+
+* A traceability matrix is a document that maps requirements to test cases. It is used to ensure that all requirements are tested and that all test cases are traceable to requirements.
+
+**What is a test plan?**
+
+* A test plan is a document that outlines the testing activities for a software project. It includes the objectives, scope, approach, resources, and schedule for the testing effort.
+
+**What is data-driven testing?**
+
+* Data-driven testing is a testing technique in which test cases are parameterized with data. This allows a large number of test cases to be executed with different data sets.
+
+
+**What is quality audit?**
+A quality audit is a systematic examination of a product or service to ensure that it meets specified quality standards. It involves assessing the processes, procedures, and outcomes of a project to identify areas for improvement.
+
+**What is test-driven development?**
+Test-driven development (TDD) is a software development approach where unit tests are written before the actual code is implemented. This helps ensure that the code is written with testability in mind and that it meets the specified requirements.
+
+**Why is agile testing important?**
+Agile testing is crucial in the agile development methodology because it emphasizes continuous testing throughout the development lifecycle. This helps to identify and fix defects early on, reducing the risk of costly rework and improving the overall quality of the product.
+
+**Distinguish between retesting and regression testing.**
+* **Retesting:** This involves verifying whether a previously identified defect has been successfully fixed.
+* **Regression testing:** This is a broader process of ensuring that new changes to the code have not introduced any new defects or caused existing defects to resurface.
+
+**Explain the importance of CRUD testing.**
+CRUD testing is essential to verify that the basic functions of a system are working correctly. CRUD stands for Create, Read, Update, and Delete, and it ensures that data can be added, retrieved, modified, and removed as expected.
+
+**Have you done software programming before?**
+If you have experience with software programming, you can highlight your skills and how they relate to testing. Even if you haven't, you can discuss your interest in learning programming and how it can benefit your testing career.
+
+**Tell me about yourself.**
+This is a common interview question that allows you to introduce yourself and highlight your relevant skills and experiences. Be concise and focus on your qualifications for the testing position.
+
+**What are different types of testing?**
+There are many different types of testing, including:
+* **Unit testing:** Testing individual components or modules of the code.
+* **Integration testing:** Testing the interaction between different components of the system.
+* **System testing:** Testing the entire system as a whole.
+* **Acceptance testing:** Testing the system against the specified requirements to ensure it meets the user's needs.
+* **Performance testing:** Testing the system's performance under different load conditions.
+* **Security testing:** Testing the system's vulnerability to security threats.
+* **Usability testing:** Testing the system's ease of use for the end user.
+
+**What is a bug?**
+A bug is a defect or error in the software that causes it to behave unexpectedly. It can range from minor issues to critical defects that prevent the software from functioning correctly.
+
+**What is Monkey testing?**
+Monkey testing is a type of random testing where the system is subjected to a series of random inputs to identify unexpected behavior or crashes.
+
+**What is thread testing?**
+Thread testing is a type of testing that focuses on the behavior of the software when multiple threads are executing concurrently. It helps to identify issues related to synchronization and race conditions.
+
+**Why do we hire you?**
+This is your opportunity to sell yourself and explain why you are the best candidate for the position. Highlight your relevant skills, experience, and your passion for software testing.
