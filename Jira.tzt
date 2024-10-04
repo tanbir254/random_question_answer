@@ -1,0 +1,38 @@
+## Interview Questions About Jira
+
+### Basic Understanding
+
+1. **What is Jira and how does it work?**
+   * Explain the core concepts of Jira, such as issues, projects, sprints, boards, and workflows.
+2. **What are the different issue types in Jira?**
+   * Discuss common issue types like tasks, bugs, stories, epics, and sub-tasks.
+3. **How do you create and manage projects in Jira?**
+   * Describe the process of setting up a new project, adding team members, and configuring project settings.
+
+### Advanced Usage
+
+1. **Explain the concept of Jira workflows and how to customize them.**
+   * Discuss the importance of workflows in defining the lifecycle of issues and how to create and modify them.
+2. **What are Jira boards and how do you use them for project management?**
+   * Explain different board types (Scrum, Kanban, etc.) and how to visualize project progress using them.
+3. **How do you use Jira for agile development methodologies (Scrum, Kanban)?**
+   * Describe how Jira supports agile practices like sprint planning, daily stand-ups, and retrospectives.
+
+### Integrations and Customization
+
+1. **How can you integrate Jira with other tools like Git, Bitbucket, or Confluence?**
+   * Discuss the benefits of integrations and how to set them up.
+2. **What are Jira add-ons and how can they be used to extend Jira's functionality?**
+   * Explain the concept of add-ons and provide examples of popular ones.
+3. **How can you customize Jira to fit your team's specific needs?**
+   * Discuss options for customizing fields, screens, and permissions.
+
+### Best Practices
+
+1. **What are some best practices for using Jira effectively?**
+   * Discuss tips for organizing projects, managing issues, and using Jira for reporting and analytics.
+2. **How do you ensure data integrity and accuracy in Jira?**
+   * Explain the importance of data validation and how to maintain data quality.
+3. **What are some common challenges faced when using Jira, and how do you address them?**
+   * Discuss potential issues like slow performance, configuration problems, or user adoption challenges.
+
