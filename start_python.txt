@@ -1,0 +1,10 @@
+data type
+variable 
+how to print
+function
+-how to define a function
+-how to return a value to a function
+-how to make function do stuff
+-how to call a function
+parameter and arg
+loop 
