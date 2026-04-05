@@ -1,0 +1,27 @@
+To check Wazuh manager error:
+# cat /var/log/filebeat/filebeat | grep -i -E "error|warn"
+# cat /var/ossec/logs/ossec.log | grep -i -E "error|warn"
+& then
+# systemctl restart wazuh-manager
+
+
+To check Wazuh indexer error:
+# cat /var/log/wazuh-indexer/wazuh-cluster.log | grep -i -E "error|warn"
+& then
+# filebeat test output
+
+
+To check Wazuh dashboard error:
+# journalctl -u wazuh-dashboard | grep -i -E "error|warn"
+& then
+# systemctl restart wazuh-dashboard
+
+
+After completing the above steps now we can login the web interface of Wazuh.
+
+
+
+
+
+
+
